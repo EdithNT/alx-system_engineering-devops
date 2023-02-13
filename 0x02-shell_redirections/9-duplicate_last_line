@@ -1,0 +1,2 @@
+#!/bin/bash
+cat iactca | tail -1 >> iacta
